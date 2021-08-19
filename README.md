@@ -17,6 +17,13 @@ It is vital for the government to ensure equal distribution of the support produ
 5. Download and uzip the zipped folder and exctract the file contents.
 6. Load and preview data sets.
 
+## Repository contains
+1. Two datasets
+2. Colab Python Notebook
+3. CRISP DM
+4. Slides containg a summary of the CRISP DM
+5. Exported Jira excel file
+
 ## Known Bugs
 There are no known bugs in the application.
 

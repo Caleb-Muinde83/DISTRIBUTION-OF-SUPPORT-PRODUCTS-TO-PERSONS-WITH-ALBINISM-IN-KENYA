@@ -1,15 +1,22 @@
-# DISTRIBUTION-OF-SUPPORT-PRODUCTS-TO-PERSONS-WITH-ALBINISM-IN-KENYA
+# Distribution of Support Products to Persons with Albinism in Kenya
 
 #### Preparation and Analysis, 18/08/2021
 
 #### By Caleb Muinde, Glendah Moraa, Ian Gathumbi, James Muguro and Naman Hirani
 
 ## Description
-In recent years, Kenya has generally been considered to be a country that is safer for persons with Albinism within the East African community, a good indicator being Isaac Mwaura who became the first Kenyan Albinism to join parliament in 2013. The government has put across measures to improve the health standards of persons with albinism following the recommendation stated in a report from a research conducted in the year 2017.  As by the report, it was clearly stated that there was lack of access to healthcare, more particularly medical checkups and appropriate sunscreen to persons with albinism. The government was also using an estimated number of persons with albinism to distribute the sunscreen which was not reliable.
-As stated in the previous paragraph, the government using the unreliable estimate to distribute health products probably affected a certain percentage of persons with Albinism. In the vision 2030, the government promised to “leave no one behind” and committed to start with “the further behind first”. The persons with albinism are among the further behind, having been left out of discourses on gender, disability and more especially on color that is intersecting their identities that are part of life with albinism. A survey was then conducted and the government went ahead and updated the new number of persons with albinism on 20th June 2018 to improve the distribution of support products across the country.
-It is vital for the government to ensure equal distribution of the support products and also to include measures to ensure that the sunscreen provided is appropriate.  Therefore, this project aims at drawing insights that will be used to optimize the distribution of sunscreen and support products to persons with albinism over the counties and  countrywide.
+In recent years, Kenya has made significant progress in ensuring the safety and well-being of persons with Albinism within the East African community. A notable milestone was the election of Isaac Mwaura, the first Kenyan with Albinism to join parliament in 2013. The Kenyan government has taken measures to improve the health standards of persons with Albinism, driven by recommendations from a 2017 research report.
+
+The report highlighted critical issues, including limited access to healthcare, particularly medical checkups and sunscreen for persons with Albinism. Moreover, the government relied on unreliable estimates to distribute essential health products, potentially leaving a significant percentage of persons with Albinism underserved.
+
+As part of its commitment to "leave no one behind" under the Vision 2030 initiative, the government recognized that persons with Albinism are among those furthest from adequate support. Unfortunately, they have been marginalized in discussions on gender, disability, and the unique challenges posed by their skin color, which intersects with their Albinism.
+
+To address these issues, a comprehensive survey was conducted. Subsequently, on June 20, 2018, the government updated its data on the number of persons with Albinism to facilitate more equitable distribution of support products across counties and the entire country.
+
+This project aims to derive insights that will optimize the distribution of sunscreen and support products to persons with Albinism, ensuring fairness and appropriateness in the allocation process.
 
 ## Setup/Installation Requirements
+To engage with this project, you will need:
 1. Text editor-Atom or any text editor that supports python. If you want to interacy with the notebook offline.
 2. Install Python 3.9.0.
 3. Google colab for the data preparation and analysis online.
